@@ -1,4 +1,6 @@
 # Simran_7
-This is my first Git repository
+Hi, i am new to github.
+<br>
+This is my first Git repository 
 <br>
 Author - Simran Chaudhary
