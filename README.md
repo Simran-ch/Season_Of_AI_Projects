@@ -1,2 +1,2 @@
 # Simran_7
-Season Of AI projects 
+This repository contains projects of "Season Of AI" organized by Microsoft Learn Student Chapter Amity University.
